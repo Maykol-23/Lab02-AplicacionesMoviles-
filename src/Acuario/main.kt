@@ -19,4 +19,5 @@ fun crearPeces() {
 
 fun main(){
     construirAcuario()
+    crearPeces()
 }
